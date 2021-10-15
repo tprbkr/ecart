@@ -1,5 +1,7 @@
 # ecart
-basic ecommers REST CRUD APIs
+basic ecommers REST APIs, CRUD operations with mongoDb, express, mongoose, nodejs.
+Example project.
+Education purpose only.
 
 # install
 run npm i
