@@ -1,6 +1,11 @@
 # ecart
 basic ecommers REST CRUD APIs
 
-# run npm start to fire the application server
+# install
+run npm i
 
-# run npm test to run unit tests
+# start
+run npm start to fire the application server
+
+# test cases
+run npm test to run unit tests
