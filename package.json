@@ -1,0 +1,26 @@
+{
+  "name": "ecart",
+  "version": "1.0.0",
+  "description": "REST APIs for a E-commers app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha test/**/*.js --timeout 100000 --exit"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "express",
+    "REST",
+    "CRUD"
+  ],
+  "author": "prabhakar tirumala",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "express": "^4.17.1",
+    "mocha": "^9.1.2",
+    "mongoose": "^6.0.10",
+    "supertest": "^6.1.6"
+  }
+}
